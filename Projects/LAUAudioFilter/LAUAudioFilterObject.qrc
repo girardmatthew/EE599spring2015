@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/filters">
+        <file>femaleFilter.fcf</file>
+        <file>lowPassFilter.fcf</file>
+        <file>maleFilter.fcf</file>
+    </qresource>
+</RCC>

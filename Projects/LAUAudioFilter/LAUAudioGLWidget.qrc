@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>LAUAudioGLWidget.frag</file>
+        <file>LAUAudioGLWidget.vert</file>
+    </qresource>
+</RCC>
